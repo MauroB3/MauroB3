@@ -6,4 +6,4 @@
 🎓 **Education:** Bachelor's Degree in Informatics (UNQ) - Thesis on heuristics applied to optimization problems.  
 💡 **Experience:** Software development, data analysis, database management, and automation.  
 📊 **Focus:** Transforming data into valuable insights for decision-making.  
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/your-profile) | Email: reekremag@gmail.com 
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/mauro-bailon/) | Email: reekremag@gmail.com 
